@@ -56,33 +56,6 @@ representations.
 
 ## <span style="color:green">Schedule at-a-glance</span>
 
-Week 1-2: Introduction to Exploratory Data Analysis and Music Data
-
-Overview of EDA and its significance
-Introduction to accessible music datasets
-Identifying interesting questions related to music
-Week 3-4: Understanding Data Basics
-
-Introduction to basic statistical concepts (mean, median, mode)
-Exploring data using non-technical methods (charts, graphs)
-Hands-on activity: Analyzing simple datasets
-Week 5-6: Data Collection and Simple Analysis
-
-Basics of data collection and cleaning
-Introduction to user-friendly tools for data exploration (e.g., Excel)
-Hands-on activity: Collecting and analyzing music-related data
-Week 7-8: Visualizing Data without Programming
-
-Overview of web platforms for easy data visualization (Google Sheets, Infogram)
-Design principles for effective visualizations
-Group project: Creating visually appealing music-related charts
-Week 9-10: Interpreting Visualizations
-
-Understanding key elements in data visualizations
-Practical exercises: Interpreting charts and graphs
-Group discussion: Analyzing visualizations related to music trends
-
-
 - **Week One**: January 17 to January 19: Setup
 - **Week Two**: January 22 to January 26: Intro to Visualizations
 - **Week Three**: January 29 to February 02: Web Data and Visualizations
@@ -91,7 +64,7 @@ Group discussion: Analyzing visualizations related to music trends
 - **Week Six**: February 19 to February 23: BI suites
 - **Week Seven**: February 26 to March 01: Stats Concepts
 - **Spring Break March 04 to March 08**
-- **Week Eight**: March 11 to March 15: Stats and programming sheets
+- **Week Eight**: March 11 to March 15: cleaning and programming sheets
 - **Week Nine**: March 18 to March 22: Python Intro
 - **Week Ten**: March 25 to March 29: Matplotlib
 - **Week Eleven**: April 1 to April 5: Exploratory Data Analysis and Scientific Process
