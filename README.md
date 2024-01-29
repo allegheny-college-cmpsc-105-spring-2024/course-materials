@@ -57,15 +57,15 @@ representations.
 ## <span style="color:green">Schedule at-a-glance</span>
 
 - **Week One**: January 17 to January 19: Setup
-- **Week Two**: January 22 to January 26: Intro to Visualizations
-- **Week Three**: January 29 to February 02: Web Data and Visualizations
-- **Week Four**: February 5 to February 9: Dashboards
-- **Week Five**: February 12 to February 16: Google Analytics
+- **Week Two**: January 22 to January 26: Intro to Visualization Tools
+- **Week Three**: January 29 to February 02: Data Transformations
+- **Week Four**: February 5 to February 9: Storytelling with Data
+- **Week Five**: February 12 to February 16: Google Analytics + Dashboards
 - **Week Six**: February 19 to February 23: BI suites
 - **Week Seven**: February 26 to March 01: Stats Concepts
 - **Spring Break March 04 to March 08**
-- **Week Eight**: March 11 to March 15: cleaning and programming sheets
-- **Week Nine**: March 18 to March 22: Python Intro
+- **Week Eight**: March 11 to March 15: Introduction to Python
+- **Week Nine**: March 18 to March 22: Introduction to Numpy
 - **Week Ten**: March 25 to March 29: Matplotlib
 - **Week Eleven**: April 1 to April 5: Exploratory Data Analysis and Scientific Process
 - **Week Twelve**: April 8 to April 12: Sonification and Auditory Display
