@@ -17,4 +17,4 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|M Jan 31||[Colab: Installation Instructions](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240131_colab_intro.ipynb)||
+|M Jan 31||[Colab: Installation Instructions](https://colab.research.google.com/github/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240131_colab_intro.ipynb)||
