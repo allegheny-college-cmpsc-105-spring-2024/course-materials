@@ -19,4 +19,4 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Jan 29||[Slides: Tranformations Continued](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240129-transformations-continued.pdf)||
 |W Jan 31||[Colab: Installation Instructions](https://colab.research.google.com/github/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240131_colab_intro.ipynb)||
-|F Feb 02|[Lab 2: Dot to dot](https://classroom.github.com/a/0Kb-l_iO) due Feb 2 at 2:30pm|||
+|F Feb 02|[Lab 2: Dot to dot](https://classroom.github.com/a/0Kb-l_iO) due Feb 2 at 2:30pm||[Reading: File Naming](https://uq.pressbooks.pub/digital-essentials-data-and-files/chapter/file-naming-and-formats/) <br> [Reading: File Systems All Sections](https://e115.engr.ncsu.edu/file-systems/)|
