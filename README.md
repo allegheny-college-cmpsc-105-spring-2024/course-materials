@@ -77,6 +77,8 @@ representations.
 
 ## <span style="color:green">Resources</span>
 
+- Fundamentals of Data Visualization
+    - [Full Text](https://clauswilke.com/dataviz/)
 - Making Sense of Data by Glenn J. Myatt and Wayne P. Johnson
     - [I. Exploratory Data Analysis](https://ebookcentral.proquest.com/lib/allegheny-ebooks/detail.action?pq-origsite=summon&docID=1729064)
     - [II. Data Visualization](https://ebookcentral.proquest.com/lib/allegheny-ebooks/detail.action?pq-origsite=summon&docID=427614)
