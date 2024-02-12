@@ -29,7 +29,7 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Feb 05||[Slides: File Organization](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240205-file-system-review.pdf)||
 |W Feb 07|[Reading: File Naming](https://uq.pressbooks.pub/digital-essentials-data-and-files/chapter/file-naming-and-formats/) <br> [Reading: File Systems All Sections](https://e115.engr.ncsu.edu/file-systems/)|[Slides: Data Storytelling](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240207-data-storytelling.pdf)|[Reading: Storytelling Music Example p. 1-7](https://journals.sagepub.com/doi/epdf/10.2190/EM.31.1.c)|
-|F Feb 09|[Lab 2: Dot to dot](https://classroom.github.com/a/0Kb-l_iO) due at 2:30pm <br> [Lab 3: Dot to dot ipynb](https://classroom.github.com/a/igLOWZ-h) due at 2:30pm|[Colab: Vocal Analysis](https://colab.research.google.com/github/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240209_voice_analysis.ipynb)|[Reading: Science & Story p. 8-14](https://allegheny.alma.exlibrisgroup.com/discovery/openurl?institution=01ACO_INST&rfr_id=info:sid%2Fsummon&rft_dat=ie%3D51154733620003906,ie%3D5159145450003906,ie%3D2148230190003906,language%3DEN&svc_dat=CTO&u.ignore_date_coverage=true&vid=01ACO_INST:Services) <br> [Lab 4: Voice Classification]|
+|F Feb 09|[Lab 2: Dot to dot](https://classroom.github.com/a/0Kb-l_iO) due at 2:30pm <br> [Lab 3: Dot to dot ipynb](https://classroom.github.com/a/igLOWZ-h) due at 2:30pm|[Colab: Vocal Analysis](https://colab.research.google.com/github/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240209_voice_analysis.ipynb)|[Reading: Science & Story p. 8-14](https://allegheny.alma.exlibrisgroup.com/discovery/openurl?institution=01ACO_INST&rfr_id=info:sid%2Fsummon&rft_dat=ie%3D51154733620003906,ie%3D5159145450003906,ie%3D2148230190003906,language%3DEN&svc_dat=CTO&u.ignore_date_coverage=true&vid=01ACO_INST:Services) <br> [Lab 4: Voice Analysis](https://classroom.github.com/a/fJEPT6I4) due Feb 16th at 11:59pm|
 
 ## Week 5 - Google Analytics
 
@@ -37,4 +37,12 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Feb 12|||[Reading: General Storytelling](https://clauswilke.com/dataviz/telling-a-story.html)|
 |W Feb 14|[Reading: Storytelling Music Example p. 1-7](https://journals.sagepub.com/doi/epdf/10.2190/EM.31.1.c)||[Reading: Storytelling Business Example](https://mitsloan.mit.edu/ideas-made-to-matter/next-chapter-analytics-data-storytelling)|
-|F Feb 16|[Lab 4: Voice Classification]|||
+|F Feb 16|[Lab 4: Voice Analysis](https://classroom.github.com/a/fJEPT6I4) due 11:59 pm||[Lab 5: Google Analytics] due Feb 23 at 2:30pm|
+
+# Week 6 - Dashboards
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Feb 19||||
+|W Feb 21||||
+|F Feb 23|[Lab 5: Google Analytics] 2:30pm|||

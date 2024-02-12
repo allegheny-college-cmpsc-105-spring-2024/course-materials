@@ -94,27 +94,35 @@ representations.
 
 ## <span style="color:green">Grading</span>
 
-Grades will be determined partially through gatorgrade, and partially by direct evaluation. The instructor may update the grading policy as needed during the term, but any changes will be announced to the class at the time of the change. Grades will be communicated throughout the semester in a grades repository on GitHub.
-
 |Assignment type |Percentage|
 |-|--------|
 |Labs| 60% |
-|Participation (quizzes, discussion)| 20% |
+|Participation| 20% |
 |Final Project | 20% |
+
+The instructor may update the grading policy as needed during the term, but any changes will be announced to the class at the time of the change. Grades will be communicated throughout the semester in a grades repository on GitHub.
 
 ### Labs
 
-Ten labs are expected during the term.
-The deliverable for labs will be documents in a GitHub repo or blog posts on a website
-addressing specific questions or demonstrating requested
-calculations,
-analyses, visualizations, and code snippets when
-relevant. The requests, or TODOs will be communicated one week before the lab is due. Static artifacts are expected. Students who would like to use html may do so.
+There are 10 labs during the semester focused on achieving the learning outcomes.
+The deliverables for labs include documentation in a GitHub repo addressing specific questions
+or demonstrating requested calculations, analyses, visualizations, and code snippets. The labs will
+be released at least one week before their due dates. Due dates are hard deadlines, but one lab can be
+redone.
+
+Individual lab grades will be determined 70% through gatorgrade (automatic reporting system),
+and 30% by direct evaluation. The direct evaluation is comprised of three checks:
+
+- clean writing with minimal grammatical and conceptual errors
+- correct Markdown and/or python syntax
+- correct images given the context of the lab
 
 ### Participation
 
-Participation is required. The deliverables will be completed quizzes about topics covered in class or in readings. 10 quizzes are expected during the term.Discussion is also required both in class and on Discord by, for example, asking and answering questions.
-Attendance will not be calculated per se, but please notify the instructor in as timely a manner as possible about any known absences.
+Participation is required. Participation will be assessed by completion of in-class Google forms,
+class discussions/presentations, and discord use. At least ten participation activities will take
+place during the semester. Attendance will not be calculated per se, but please notify the instructor
+in as timely a manner as possible about any known absences.
 
 ### Final Project
 
@@ -137,7 +145,11 @@ Please take appropriate precautions if you are sick. This includes staying home 
 
 ### Absence
 
-Two unexcused absences are allowed, and attendance will not be calculated or graded per se. Following Allegheny College policy, consecutive absences will be noted. Please inform the instructor in a timely manner about any known absences or conflicts with the scheduled classes. Graded work that is missed due to absence cannot be made up except in the case of extreme extenuating circumstances as it comprises the participation aspect of the course.
+Two unexcused absences are allowed, and attendance will not be calculated or graded per se.
+Following Allegheny College policy, consecutive absences will be noted. Please inform the instructor
+in a timely manner about any known absences or conflicts with the scheduled classes. Graded work
+beyond one lab that is missed due to absence cannot be made up except in the case of extreme
+extenuating circumstances.
 
 ### Honor Code
 
@@ -148,6 +160,7 @@ The Honor Code applies to all work in this course. Recall the pledge:
 
 Plagiarism will not be tolerated.
 Examples of plagiarism include
+
 - verbatim copying without citation (no original logic, no original writing)
 - copying with single word modifications (no original logic, some original writing)
 - paraphrasing or using notes on a source without citation (no original logic)
@@ -158,6 +171,7 @@ To claim that work is your own, it is essential to craft the logic and the writi
 ### Seeking Assistance
 
 There are many ways to get help.
+
 - TLs in class sessions
 - Productive peer discussion
 - Descriptive Discord messages
