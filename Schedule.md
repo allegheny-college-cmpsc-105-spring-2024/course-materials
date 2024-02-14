@@ -36,8 +36,8 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |M Feb 12|||[Reading: General Storytelling](https://clauswilke.com/dataviz/telling-a-story.html)|
-|W Feb 14|[Reading: Storytelling Music Example p. 1-7](https://journals.sagepub.com/doi/epdf/10.2190/EM.31.1.c)||[Reading: Storytelling Business Example](https://mitsloan.mit.edu/ideas-made-to-matter/next-chapter-analytics-data-storytelling)|
-|F Feb 16|[Lab 4: Voice Analysis](https://classroom.github.com/a/fJEPT6I4) due 11:59 pm||[Lab 5: Google Analytics] due Feb 23 at 2:30pm|
+|W Feb 14|[Reading: Storytelling Music Example p. 1-7](https://journals.sagepub.com/doi/epdf/10.2190/EM.31.1.c)|[Slides: Google Analytics by OBC](https://github.com/CMPSC-301-Allegheny-College-Spring-2023/classDocs/blob/main/lessons/02/02week_cs301_24Jan2023_googleAnalytics.pdf)|[Reading: Storytelling Business Example](https://mitsloan.mit.edu/ideas-made-to-matter/next-chapter-analytics-data-storytelling)|
+|F Feb 16|[Lab 4: Voice Analysis](https://classroom.github.com/a/fJEPT6I4) due 11:59 pm||[Lab 5: Google Analytics] due TBD|
 
 # Week 6 - Dashboards
 
@@ -45,4 +45,4 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Feb 19||||
 |W Feb 21||||
-|F Feb 23|[Lab 5: Google Analytics] 2:30pm|||
+|F Feb 23||||

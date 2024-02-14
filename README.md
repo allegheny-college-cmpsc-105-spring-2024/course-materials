@@ -64,9 +64,9 @@ representations.
 - **Week Six**: February 19 to February 23: BI suites
 - **Week Seven**: February 26 to March 01: Stats Concepts
 - **Spring Break March 04 to March 08**
-- **Week Eight**: March 11 to March 15: Introduction to Python
+- **Week Eight**: March 11 to March 15: [Introduction to Python](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 - **Week Nine**: March 18 to March 22: Introduction to Numpy
-- **Week Ten**: March 25 to March 29: Matplotlib
+- **Week Ten**: March 25 to March 29: [Matplotlib](https://matplotlib.org/stable/gallery/index.html)
 - **Week Eleven**: April 1 to April 5: Exploratory Data Analysis and Scientific Process
 - **Week Twelve**: April 8 to April 12: Sonification and Auditory Display
 - **Week Thirteen**: April 15 to April 19: Project Consulting
