@@ -75,6 +75,8 @@ representations.
 - **Final Examination**: *Examination Code*: J, *Date*: Tuesday, May 7nd, 2024 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/spring-2024-final-exam-schedule/)
     - Presentations
 
+These topics fall into categories of data processing, data storytelling, data gathering, data differences, data structures, data display.
+
 ## <span style="color:green">Resources</span>
 
 - Fundamentals of Data Visualization
@@ -107,10 +109,13 @@ The instructor may update the grading policy as needed during the term, but any 
 There are 10 labs during the semester focused on achieving the learning outcomes.
 The deliverables for labs include documentation in a GitHub repo addressing specific questions
 or demonstrating requested calculations, analyses, visualizations, and code snippets. The labs will
-be released at least one week before their due dates. Due dates are hard deadlines, but one lab can be
-redone.
+be released at least one week before their due dates. Due dates are hard deadlines.
 
-Individual lab grades will be determined 70% through gatorgrade (automatic reporting system),
+Optionally, one lab can be redone any time before the end of the semester. The new grade will
+completely replace the old grade. Students may take this one redo as an extension at their
+discretion.
+
+For each lab, grades will be determined 70% through gatorgrade (automatic reporting system),
 and 30% by direct evaluation. The direct evaluation is comprised of three checks:
 
 - clean writing with minimal grammatical and conceptual errors
