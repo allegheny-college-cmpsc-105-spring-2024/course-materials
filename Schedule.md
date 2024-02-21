@@ -44,5 +44,5 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |M Feb 19||||
-|W Feb 21||[Slides: Dashboards]()||
+|W Feb 21||[Slides: Dashboards](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240221-dashboards.pdf)||
 |F Feb 23|[Lab 5: Resto Google Analytics](https://classroom.github.com/a/RbaYQTOJ) due F Feb 23 at 11:59pm||[Lab 6: ]|
