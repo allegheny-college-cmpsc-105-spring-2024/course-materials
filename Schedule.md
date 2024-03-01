@@ -45,4 +45,14 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Feb 19||||
 |W Feb 21||[Slides: Dashboards](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240221-dashboards.pdf)||
-|F Feb 23|[Lab 5: Resto Google Analytics](https://classroom.github.com/a/RbaYQTOJ) due F Feb 23 at 11:59pm||[Lab 6: ]|
+|F Feb 23|[Lab 5: Resto Google Analytics](https://classroom.github.com/a/RbaYQTOJ) due F Feb 23 at 11:59pm|||
+
+## Week 7 - Introduction to Numpy
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Feb 26||||
+|W Feb 28||Intro to numpy||
+|F Mar 01||[Slides: transformations in numpy](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240301-transformations-in-numpy.pdf)|[Reading: Describing Data p. 17-46](https://ebookcentral.proquest.com/lib/allegheny-ebooks/reader.action?docID=1729064&ppg=61) <br> [Lab 6]|
+
+## Spring Break
