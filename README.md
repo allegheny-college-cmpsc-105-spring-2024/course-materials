@@ -111,21 +111,22 @@ The deliverables for labs include documentation in a GitHub repo addressing spec
 or demonstrating requested calculations, analyses, visualizations, and code snippets. The labs will
 be released at least one week before their due dates. Due dates are hard deadlines.
 
-Optionally, one lab can be redone any time before the end of the semester. The new grade will
-completely replace the old grade. Students may take this one redo as an extension at their
+Optionally, two labs can be redone any time before the end of the semester. The new grade will
+completely replace the old grade. Students may take these two redos as an extension at their
 discretion.
 
-For each lab, grades will be determined 70% through gatorgrade (automatic reporting system),
-and 30% by direct evaluation. The direct evaluation is comprised of three checks:
+For each lab, grades will be determined 50% through gatorgrade (automatic reporting system),
+and 50% by direct evaluation. The direct evaluation is comprised of four checks:
 
-- clean writing with minimal grammatical and conceptual errors
-- correct Markdown and/or python syntax
+- clean work with few careless errors
+- correct Markdown, code, and/or data not already gatorgraded
 - correct images given the context of the lab
+- correct explanations of concepts in writing
 
 ### Participation
 
 Participation is required. Participation will be assessed by completion of in-class Google forms,
-class discussions/presentations, and discord use. At least ten participation activities will take
+class discussions/presentations, and timely lab work. At least ten participation activities will take
 place during the semester. Attendance will not be calculated per se, but please notify the instructor
 in as timely a manner as possible about any known absences.
 
