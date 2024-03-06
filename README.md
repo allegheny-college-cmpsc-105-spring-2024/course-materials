@@ -164,15 +164,16 @@ The Honor Code applies to all work in this course. Recall the pledge:
 > defined in the Honor Code, and to maintain the integrity of both
 > myself and the College community as a whole.
 
-Plagiarism will not be tolerated.
-Examples of plagiarism include
+Plagiarism will not be tolerated. Examples of plagiarism include:
 
 - verbatim copying without citation (no original logic, no original writing)
 - copying with single word modifications (no original logic, some original writing)
 - paraphrasing or using notes on a source without citation (no original logic)
 - asking what someone wrote and rewriting it (no original logic, no original writing)
 
-To claim that work is your own, it is essential to craft the logic and the writing together without copying or using the logical structure of another source. The honor code holds everyone to this standard.
+To claim that work is your own, it is essential to craft the logic and the writing together
+without copying or using the logical structure of another source. The honor code holds everyone
+to this standard. Non-original work will not be graded.
 
 ### Seeking Assistance
 
