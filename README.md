@@ -62,10 +62,10 @@ representations.
 - **Week Four**: February 5 to February 9: Storytelling with Data
 - **Week Five**: February 12 to February 16: Google Analytics + Dashboards
 - **Week Six**: February 19 to February 23: BI suites
-- **Week Seven**: February 26 to March 01: Stats Concepts
+- **Week Seven**: February 26 to March 01: [Introduction to Python](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 - **Spring Break March 04 to March 08**
-- **Week Eight**: March 11 to March 15: [Introduction to Python](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
-- **Week Nine**: March 18 to March 22: Introduction to Numpy
+- **Week Eight**: March 11 to March 15: [Stats Concepts](https://ebookcentral.proquest.com/lib/allegheny-ebooks/detail.action?pq-origsite=summon&docID=1729064)
+- **Week Nine**: March 18 to March 22: Stats and Plotting
 - **Week Ten**: March 25 to March 29: [Matplotlib](https://matplotlib.org/stable/gallery/index.html)
 - **Week Eleven**: April 1 to April 5: Exploratory Data Analysis and Scientific Process
 - **Week Twelve**: April 8 to April 12: Sonification and Auditory Display
