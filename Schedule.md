@@ -64,3 +64,11 @@
 |M Mar 11|[Reading: Describing Data p. 17-46](https://ebookcentral.proquest.com/lib/allegheny-ebooks/reader.action?docID=1729064&ppg=31)|[Slides: data descriptors in numpy](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240311-describing-data-in-numpy.pdf)|[Lab 6: Data Descriptors in Numpy](https://classroom.github.com/a/yx1xFxym) due March 18th at 11am|
 |W Mar 13|||[Reading: Preparing Data Tables p. 47-59](https://ebookcentral.proquest.com/lib/allegheny-ebooks/reader.action?docID=1729064&ppg=61)|
 |F Mar 15||[Slides: distributions intro](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240315-distributions-intro.pdf)||
+
+## Week 9 - Stats Continued
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Mar 18|[Lab 6: Data Descriptors in Numpy](https://classroom.github.com/a/yx1xFxym) due at 11am|[Slides: confidence interval, hypothesis testing](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240318-hypothesis-testing.pdf)||
+|W Mar 20|[Reading: Preparing Data Tables p. 47-59](https://ebookcentral.proquest.com/lib/allegheny-ebooks/reader.action?docID=1729064&ppg=61)||[Lab 7: Testing Hypotheses] due at 11am March 27|
+|F Mar 22||||
