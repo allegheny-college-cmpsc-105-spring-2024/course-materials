@@ -78,5 +78,5 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |M Mar 25||[Board: Logical Indexing]||
-|W Mar 27||[Code: https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240327-matplotlib-formatting.py]||
+|W Mar 27||[Code: matplotlib formatting](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240327-matplotlib-formatting.py)||
 |F Mar 29|[Lab 7: Testing Hypotheses](https://classroom.github.com/a/gnvNGjAL) due March at 11:59pm|||
