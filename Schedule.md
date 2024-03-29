@@ -71,4 +71,5 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Mar 18|[Lab 6: Data Descriptors in Numpy](https://classroom.github.com/a/yx1xFxym) due at 11am|[Slides: confidence interval, hypothesis testing](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240318-hypothesis-testing.pdf)||
 |W Mar 20|[Reading: Preparing Data Tables p. 47-59](https://ebookcentral.proquest.com/lib/allegheny-ebooks/reader.action?docID=1729064&ppg=61)|[Slides: hypothesis testing continued](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240320-hypothesis-testing-continued.pdf)||
-|F Mar 22||[Board: Matplotlib intro]|[Lab 7: Testing Hypotheses](https://classroom.github.com/a/gnvNGjAL) due March 29th at 11:59pm|
+|F Mar 22||[Board: Matplotlib intro]|[Lab 7: Testing Hypotheses](https://classroom.github.com/a/gnvNGjAL) due March 29th at 11:59pm|[Lab 8: Matplotlib](https://classroom.github.com/a/UlUzGaDt) due April 5th at 11:59pm|
+
