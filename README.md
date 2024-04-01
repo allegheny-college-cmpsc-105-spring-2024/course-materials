@@ -67,8 +67,8 @@ representations.
 - **Week Eight**: March 11 to March 15: [Stats Concepts](https://ebookcentral.proquest.com/lib/allegheny-ebooks/detail.action?pq-origsite=summon&docID=1729064)
 - **Week Nine**: March 18 to March 22: Stats and Plotting
 - **Week Ten**: March 25 to March 29: [Matplotlib](https://matplotlib.org/stable/gallery/index.html)
-- **Week Eleven**: April 1 to April 5: Exploratory Data Analysis and Scientific Process
-- **Week Twelve**: April 8 to April 12: Sonification and Auditory Display
+- **Week Eleven**: April 1 to April 5: Linear Relationships
+- **Week Twelve**: April 8 to April 12: Exploratory Data Analysis and Scientific Process
 - **Week Thirteen**: April 15 to April 19: Project Consulting
 - **Week Fourteen**: April 22 to April 26: Projects Continued
 - **Week Fifteen**: April 29: TBD
