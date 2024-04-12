@@ -88,3 +88,11 @@
 |M Apr 01||[Slides: Correlation and Regression](https://github.com/allegheny-college-cmpsc-105-spring-2024/course-materials/blob/main/notes/20240401-correlation-regression.pdf)|[Reading: Correlation p. 69-71](https://ebookcentral.proquest.com/lib/allegheny-ebooks/reader.action?docID=1729064&ppg=83)|
 |W Apr 03||||
 |F Apr 05|[Lab 8: Matplotlib](https://classroom.github.com/a/UlUzGaDt) due at 11:59pm|||
+
+## Week 12 - Tableau Public
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Apr 08||[Biased and Unbiased Slopes]||
+|W Apr 10||Tableau Public - first exploration||
+|F Apr 12||Tableau Public - overfitting <br> [Lab 9: Songdata Correlations](https://classroom.github.com/a/VfrKh8M7) due Apr 19 at 11:59pm||
