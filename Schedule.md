@@ -95,4 +95,32 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Apr 08||[Biased and Unbiased Slopes]||
 |W Apr 10||Tableau Public - first exploration||
-|F Apr 12||Tableau Public - overfitting <br> [Lab 9: Songdata Correlations](https://classroom.github.com/a/VfrKh8M7) due Apr 19 at 11:59pm||
+|F Apr 12||Tableau Public - overfitting |[Lab 9: Songdata Correlations](https://classroom.github.com/a/VfrKh8M7) due Apr 19 at 11:59pm|
+
+## Week 13 - Project Consultation
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Apr 15||||
+|W Apr 17||||
+|F Apr 19|[Lab 9: Songdata Correlations](https://classroom.github.com/a/VfrKh8M7) due at 11:59pm|[Initial Project Meetings](https://docs.google.com/spreadsheets/d/1PQoFkdfPZGWLfPZzknpVNqdnq6-bgphOttl5uiCnWKU/edit?usp=sharing)||
+
+## Week 14 - Project Consultation
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Apr 22||||
+|W Apr 24|||[Project Repo: Data Insight](https://classroom.github.com/a/pojZiZlA) due May 7 at 11:59am|
+|F Apr 26|[Checkpoint Presentations](https://docs.google.com/spreadsheets/d/1PQoFkdfPZGWLfPZzknpVNqdnq6-bgphOttl5uiCnWKU/edit?usp=sharing)|||
+
+## Week 15 - Project Consultation
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|M Apr 29|[Checkpoint Presentations](https://docs.google.com/spreadsheets/d/1PQoFkdfPZGWLfPZzknpVNqdnq6-bgphOttl5uiCnWKU/edit?usp=sharing)|||
+
+## Final Project Due
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|Tu May 07|[Project Repo: Data Insight](https://classroom.github.com/a/pojZiZlA) due at 11:59am|||
