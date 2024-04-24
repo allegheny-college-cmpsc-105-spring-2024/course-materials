@@ -111,7 +111,8 @@
 |-------|------------------|-----------------------------|----------------------|
 |M Apr 22||||
 |W Apr 24|||[Project Repo: Data Insight](https://classroom.github.com/a/pojZiZlA) due May 7 at 11:59am|
-|F Apr 26|[Checkpoint Presentations](https://docs.google.com/spreadsheets/d/1PQoFkdfPZGWLfPZzknpVNqdnq6-bgphOttl5uiCnWKU/edit?usp=sharing)|||
+|F Apr 26 class||[Department Survey](https://forms.gle/KhXfL4juCt7VPegRA) <br> [RSE Survey](https://allegheny.instructure.com/courses/10873/external_tools/1268)||
+|F Apr 26 lab|[Checkpoint Presentations](https://docs.google.com/spreadsheets/d/1PQoFkdfPZGWLfPZzknpVNqdnq6-bgphOttl5uiCnWKU/edit?usp=sharing)|||
 
 ## Week 15 - Project Consultation
 
